@@ -1,2 +1,4 @@
-# pythonwk2plp
-assignment
+# python assignment
+PLP week2 assignment
+PLP week3 assignment
+
